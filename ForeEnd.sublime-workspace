@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"render"
+			],
+			[
+				"com",
+				"Component"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"r",
+				"reverseMessage"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cl",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install package Control",
+				"Install Package Control"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 460.0
+	},
+	"console":
+	{
+		"height": 251.0,
+		"history":
+		[
+			"svn up",
+			"svn"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/uag/Coding/FroeEnd/ForeEnd"
+	],
+	"file_history":
+	[
+		"/Users/uag/Coding/OSLS/OSG/OpenSceneGraph/README.md",
+		"/Users/uag/Coding/OSLS/ReactCesium/react-cesium-demo/src/App.js",
+		"/Users/uag/.m2/settings.xml",
+		"/Users/uag/Coding/SHFX/HSFXV1.0/branches/FloodAnalysis/src/main/webapp/WEB-INF/staticFile/jsons/rivl.geojson",
+		"/Users/uag/Downloads/FFMERV10/RunCompute.bat",
+		"/Users/uag/Coding/SHFX/bjsh/code/trunk/6.test/testadd.txt",
+		"/Users/uag/Coding/OSLS/Cesium146/README.md",
+		"/Users/uag/项目资料/201802-四川彭州/调查评价/2015年调查结果概要.txt",
+		"/usr/local/TomcatIns/catalinaBase_BYH/conf/server.xml",
+		"/usr/local/TomcatIns/catalinaBase_BYH/conf/context.xml",
+		"/usr/local/TomcatIns/catalinaBase_BYH/conf/server-web.xml",
+		"/Users/uag/Coding/SHFX/sdwl/FloodAnalysisWeb/src/App.vue",
+		"/Users/uag/Coding/shfx/sdwl/FloodAnalysisWeb/build/utils.js",
+		"/Users/uag/Coding/shfx/sdwl/FloodAnalysisWeb/build/vue-loader.conf.js",
+		"/Users/uag/Coding/shfx/sdwl/FloodAnalysisWeb/config/index.js",
+		"/Users/uag/项目资料/201805-国水江河/水保数据库草稿.txt",
+		"/Users/uag/Desktop/水保项目数据库记录设计底稿.txt",
+		"/Users/uag/Coding/SHFX/sdwl/FloodAnalysisWeb/src/router/index.js",
+		"/Users/uag/Coding/shfx/sdwl/FloodAnalysisWeb/src/vuex/store.js",
+		"/Users/uag/Coding/SHFX/sdwl/FloodAnalysisWeb/src/views/Home/subindex.vue",
+		"/Users/uag/Coding/shfx/sdwl/FloodAnalysisWeb/src/components/Header/header.vue",
+		"/Users/uag/Coding/SHFX/sdwl/FloodAnalysisWeb/src/views/Home/index.vue",
+		"/Users/uag/Coding/SHFX/sdwl/FloodAnalysisWeb/src/views/map/index.vue",
+		"/Users/uag/Library/Application Support/Sublime Text 3/Packages/SVN/SVN.sublime-settings",
+		"/Users/uag/Library/Application Support/Sublime Text 3/Packages/User/SVN.sublime-settings",
+		"/Users/uag/Coding/SHFX/sdwl/FloodAnalysisWeb/src/static/images/d",
+		"/Users/uag/Coding/shfx/sdwl/FloodAnalysisWeb/src/views/Home/index.vue",
+		"/Users/uag/Coding/shfx/sdwl/FloodAnalysisWeb/src/App.vue",
+		"/Users/uag/Coding/shfx/sdwl/FloodAnalysisWeb/src/components/HelloWorld.vue",
+		"/Users/uag/Downloads/FDSTDB.db",
+		"/Users/uag/公司文件/数据库账号清单.txt",
+		"/usr/local/tomcat7069jjt/logs/ecard/interactive/error.log",
+		"/usr/local/tomcat7069jjt/conf/catalina.properties",
+		"/usr/local/tomcat7069jjt/conf/tomcat-users.xml",
+		"/usr/local/tomcat7069jjt/conf/context.xml",
+		"/usr/local/tomcat7069jjt/conf/server.xml",
+		"/usr/local/tomcat7069jjt/bin/shutdown.sh",
+		"/usr/local/tomcat7069jjt/bin/catalina.sh",
+		"/usr/local/tomcat7069 - jjt/conf/server.xml",
+		"/Users/uag/entwine/red-rocks/h/ids",
+		"/Users/uag/Downloads/riverChief/riverChief/build.gradle",
+		"/hello sublime text"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ForeEnd.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
