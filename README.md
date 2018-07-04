@@ -5,7 +5,7 @@ https://www.jianshu.com/p/c980045cc4c4
 ## 项目运行
 
 ```
-git clone https://github.com/fengye1/react-cesium-demo.git
+git clone https://github.com/uag515/ForeEndGit.git
 
 cd react-cesium-demo （进入当前的项目）
 
