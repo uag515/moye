@@ -1,11 +1,11 @@
 
-## 文档地址
-https://www.jianshu.com/p/c980045cc4c4
-
+## 项目背景
+	用于前端开发
+	
 ## 项目运行
 
 ```
-git clone https://github.com/uag515/ForeEndGit.git
+git clone https://github.com/uag515/moye.git
 
 cd react-cesium-demo （进入当前的项目）
 
